@@ -1,0 +1,26 @@
+.skeleton {
+  pointer-events: none;
+}
+
+.skeleton .line {
+  height: 12px;
+  background: #e0e0e0;
+  margin-bottom: 8px;
+  border-radius: 4px;
+  animation: pulse 1.5s infinite;
+}
+
+.skeleton .title {
+  height: 18px;
+  width: 60%;
+}
+
+.skeleton .short {
+  width: 40%;
+}
+
+@keyframes pulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.4; }
+  100% { opacity: 1; }
+}
