@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="./assets/screenshot-top-swapi.PNG" width="700" />
+</p>
+
+## 📸 Screenshots
+
+### Skeleton Loader
+<img src="./assets/screenshot-skeleton.PNG" width="600" />
+
 # Star-Wars-Infinite-Scroll-App
 
 A React application that consumes the **SWAPI (Star Wars API)** to display characters using **Infinite Scroll** powered by the **Intersection Observer API**.   
