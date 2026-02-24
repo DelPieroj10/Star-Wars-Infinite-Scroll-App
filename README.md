@@ -15,7 +15,7 @@ Each character card displays detailed information, including their **homeworld**
 ---
 
 ## 🚀 Live Demo
-Coming soon…
+https://star-wars-infinite-scroll-app.vercel.app/
 
 ---
 
